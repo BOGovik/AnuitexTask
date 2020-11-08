@@ -1,0 +1,7 @@
+C:\Users\bogov\source\repos\Anuitex\Anuitex\bin\Debug\Anuitex.exe.config
+C:\Users\bogov\source\repos\Anuitex\Anuitex\bin\Debug\Anuitex.exe
+C:\Users\bogov\source\repos\Anuitex\Anuitex\bin\Debug\Anuitex.pdb
+C:\Users\bogov\source\repos\Anuitex\Anuitex\obj\Debug\Anuitex.csprojAssemblyReference.cache
+C:\Users\bogov\source\repos\Anuitex\Anuitex\obj\Debug\Anuitex.csproj.CoreCompileInputs.cache
+C:\Users\bogov\source\repos\Anuitex\Anuitex\obj\Debug\Anuitex.exe
+C:\Users\bogov\source\repos\Anuitex\Anuitex\obj\Debug\Anuitex.pdb
